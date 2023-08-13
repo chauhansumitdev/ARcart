@@ -1,1 +1,15 @@
-[]
+front end ->
+
+tech stack ->
+a frame
+js
+html
+cs 
+
+wireframing -> [sumit]
+ui design -> [somesh]
+3d model integration - []
+
+Logs ->
+13-08-2023 - wireframing + ui dev
+
